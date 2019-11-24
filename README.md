@@ -1,4 +1,4 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game 
 
 ### How to play
 - open the index.html file
@@ -8,4 +8,5 @@ but be carefull not to collide with the bugs.
 
 
 ### 
+# This is one of the projects of  fend course by udacity
 
