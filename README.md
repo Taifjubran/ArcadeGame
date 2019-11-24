@@ -9,4 +9,3 @@ but be carefull not to collide with the bugs.
 
 ### 
 
-**Udacity**
